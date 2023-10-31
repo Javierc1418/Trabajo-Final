@@ -1,0 +1,36 @@
+[
+    {
+        "nombre" : "Tuerca",
+        "precio" : 25
+    },
+    {
+        "nombre" : "Tornillos",
+        "precio" : 30
+    },
+    {
+        "nombre" : "Arandelas",
+        "precio" : 10
+    },
+    {
+        "nombre" : "Clavos",  
+        "precio" : 5        
+    },
+    {
+        "nombre" : "Tarugos",
+        "precio" : 12
+    },
+    {
+        "nombre" : "Mechas",
+        "precio" : 40
+    },
+    {
+        "nombre" : "Cables",    
+        "precio" : 8
+    },
+    {
+        "nombre" : "Cinta aisladora",
+        "precio" : 27
+    }
+]
+
+
